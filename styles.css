@@ -2,9 +2,28 @@
     background-color: rgb(243, 192, 116);
     color: green;
     font-family: "Times New Roman", sans-serif;
+    font-weight: bold;
     text-align: center;
 }
 
-.home-body {
+#home-body {
     background-color: beige;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#subtitle-caprese {
+    background-color: rgb(182, 154, 111);
+    color: green;
+    font-family: "Times New Roman", sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+#caprese-body{
+    background-color: rgb(245, 223, 223);
 }
