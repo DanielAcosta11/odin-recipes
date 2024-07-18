@@ -1,0 +1,10 @@
+#subtitle-home-page {
+    background-color: rgb(243, 192, 116);
+    color: green;
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+}
+
+.home-body {
+    background-color: beige;
+}
