@@ -1,31 +1,42 @@
-#subtitle-home-page {
-    background-color: rgb(243, 192, 116);
+#home-body {
+    background-color: beige;
+}
+
+#caprese-body {
+    background-color: rgb(245, 223, 223);
+}
+
+#crockpot-body {
+    background-color: rgb(248, 230, 232);
+}
+
+#subtitle-home-page,
+#subtitle-caprese,
+#subtitle-crockpot,
+#subtitle-heirloom {
     color: green;
     font-family: "Times New Roman", sans-serif;
     font-weight: bold;
     text-align: center;
 }
 
-#home-body {
-    background-color: beige;
+#subtitle-home-page {
+    background-color: rgb(243, 192, 116);
+}
+
+#subtitle-caprese {
+    background-color: rgb(182, 154, 111);
+}
+
+#subtitle-crockpot.text-color {
+    color: rgb(138, 75, 75);
+    background-color: rgb(216, 201, 177);
 }
 
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-#subtitle-caprese {
-    background-color: rgb(182, 154, 111);
-    color: green;
-    font-family: "Times New Roman", sans-serif;
-    font-weight: bold;
-    text-align: center;
-}
-
-#caprese-body{
-    background-color: rgb(245, 223, 223);
 }
 
 h3 {
